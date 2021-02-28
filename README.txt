@@ -1,4 +1,4 @@
-This App have a propose to be an interface for users to use Bots of AHK
+This App have a propose to be an interface for users to use Bots of AHK.
 
 FOR DEVs :
 	Upgrade de App to Full Version:
